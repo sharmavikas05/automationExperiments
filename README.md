@@ -1,2 +1,2 @@
-# seleniumExperiments
-Experiments with Selenium
+# automationExperiments
+Experiments with javascript automation
